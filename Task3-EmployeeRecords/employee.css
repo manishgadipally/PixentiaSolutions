@@ -1,0 +1,17 @@
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}  
+
+table, th, td {
+    border: 1px solid black;
+    width:600px; height:50px;
+    text-align: center;
+  
+  }
